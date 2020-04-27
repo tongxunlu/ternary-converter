@@ -1,4 +1,4 @@
-# Ternary Converter
+# Ternary Converter -三元运算符在线转换
 A simple javascript webpage to convert ternary conditionals into if-else statements.
 
 Works with nested ternary statements.
